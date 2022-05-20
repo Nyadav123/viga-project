@@ -1,0 +1,128 @@
+* {
+  background-color: #131415;
+}
+.board1 {
+  position: absolute;
+  width: 424px;
+  height: 534px;
+  left: 508px;
+  top: 245px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.p1 {
+  position: absolute;
+  width: 236px;
+  height: 24px;
+  left: 100px;
+  top: 358px;
+  bottom: 158px;
+  font-family: "Poppins";
+  font-style: normal;
+  line-height: 24px;
+  text-decoration: none;
+  background: none;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.b1 {
+  position: absolute;
+  left: 31px;
+  right: 31px;
+  top: 105px;
+  bottom: 267px;
+  width: 362px;
+  height: 162px;
+  background: none;
+}
+.v1 {
+  top: 63px;
+  bottom: 0%;
+  left: 60px;
+  position: absolute;
+  width: 305px;
+  height: 246px;
+  background-color: #232527;
+}
+
+.bt {
+  position: absolute;
+  background: none;
+  text-decoration: none;
+  position: absolute;
+  width: 120px;
+  height: 27px;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  color: #ffffff;
+  left: 161px;
+  line-height: 27px;
+  font-weight: 500;
+  font-size: 20px;
+  top: 440px;
+}
+.c-1 {
+  position: absolute;
+  width: 18px;
+  top: 491px;
+  border: none;
+  background: none;
+  height: 7px;
+  border-radius: 5px;
+  left: 181px;
+  background-color: #ffffff;
+}
+.r1-1 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  left: 206px;
+  padding: 2px 2px 2px 2px;
+}
+.r2-1 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 10px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  left: 221px;
+  padding: 2px 2px 2px 2px;
+}
+.r3-1 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  padding: 2px 2px 2px 2px;
+  left: 236px;
+}
+.skip-1 {
+  color: #919191;
+  position: absolute;
+  width: 30px;
+  border: none;
+  background: none;
+  text-decoration: none;
+  height: 21px;
+  left: 705px;
+  top: 807px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}

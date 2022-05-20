@@ -1,0 +1,77 @@
+* {
+  background-color: #131415;
+}
+.login {
+  position: absolute;
+  width: 424px;
+  height: 534px;
+  left: 508px;
+  top: 245px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.logo {
+  top: 0%;
+  bottom: 0%;
+  margin-left: 45% !important;
+  margin-top: 20px;
+  width: 56.87px !important;
+  height: 69px !important;
+  background-color: #232527;
+}
+.user {
+  position: static;
+  width: 80%;
+  height: 20px;
+  font-family: "Nunito", sans-serif;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: #232527;
+  margin-top: 17%;
+  margin-left: 17%;
+}
+p {
+  margin-left: 39% !important;
+  margin-top: 1px;
+  text-decoration: underline;
+  background-color: #232527;
+
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.5);
+
+  text-decoration: underline white;
+}
+.reset {
+  margin-left: 30%;
+  margin-top: 40px !important;
+  background-color: #232527;
+  font-size: 13px;
+  /* text-align: center; */
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: underline white;
+}
+.blank {
+  width: 70%;
+  margin-top: 1%;
+  margin-left: 15%;
+  height: 2px;
+  background-color: #ffffff;
+}
+.log {
+  margin-left: 30%;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Nunito", sans-serif;
+  color: rgb(40, 37, 37);
+  font-style: inherit;
+  background-color: aliceblue;
+  font-size: 20px;
+  padding: 20px 50px 20px 50px;
+}
+.text {
+  color: #ffffff;
+}
+
+.log :hover {
+  cursor: pointer;
+}

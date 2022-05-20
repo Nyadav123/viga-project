@@ -1,0 +1,54 @@
+/* spash page or starting page */
+* {
+  background-color: #232527;
+}
+.spash {
+  position: absolute;
+  width: 1114px;
+  height: 634px;
+  left: 163px;
+  top: 195px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 20px 12px 40px;
+  position: absolute;
+  background: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Nunito", sans-serif;
+  color: rgb(40, 37, 37);
+  font-style: inherit;
+  left: 72px;
+  font-size: 20px;
+  width: 140px;
+  top: 528px;
+}
+
+.btn :hover {
+  cursor: pointer;
+}
+.text {
+  position: absolute;
+  width: 733px;
+  height: 216px;
+  background: none;
+  left: 72px;
+  top: 250px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+}
+.c-logo {
+  margin-left: 50px !important;
+  margin-top: 70px !important;
+  /* width: 180px !important;
+    height: 70px !important; */
+}

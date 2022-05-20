@@ -1,0 +1,145 @@
+.c-head {
+  width: 607px;
+  height: 60px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 60px;
+  margin-left: 90px;
+  color: #ffffff;
+  flex: none;
+  margin-top: 100px;
+  order: 1;
+  flex-grow: 0;
+}
+.c-time {
+  width: 171px;
+  height: 38px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  margin-left: 1179px;
+  line-height: 38px;
+  text-align: right;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-top: -45px;
+  color: #ffffff;
+}
+.c-cap {
+  position: absolute;
+  width: 300.1px;
+  height: 168.22px;
+  left: 207.34px;
+  top: 391.57px;
+}
+.c-img {
+  position: absolute;
+  width: 593.96px;
+  height: 550px;
+  left: 90px;
+  top: 241px;
+}
+.c-time p {
+  font-style: normal;
+  font-weight: 400;
+  background: none;
+  margin-top: -10px;
+  text-decoration: none !important;
+  color: rgba(255, 255, 255, 0.5);
+  margin-left: 0px !important;
+}
+.testing img {
+  width: 36px;
+  height: 23px;
+  font-weight: bolder;
+
+  margin-top: 30px;
+}
+.c-personal {
+  position: absolute;
+  width: 121px;
+  height: 30px;
+  left: 1192px;
+  top: 870px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: right;
+  color: #ffffff;
+}
+.c-start {
+  width: 98px;
+  height: 27px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #131415;
+  flex: none;
+  margin-top: -190px;
+  order: 0;
+  display: flex;
+  border: none;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 12px 40px;
+  gap: 10px;
+  color: black;
+  margin-left: 770px !important;
+  background: #ffffff;
+}
+.c-name {
+  margin-left: 51px;
+  margin-top: -29px;
+}
+.c-circle {
+  width: 25px;
+  height: 25px;
+  margin-top: -10px;
+  border-radius: 20px;
+  border-left: 5px solid rgba(255, 255, 255, 0.5);
+  border-top: 3px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 3px solid rgba(255, 255, 255, 0.5);
+  border-right: 0px solid rgba(255, 255, 255, 0.5);
+}
+.c-pic {
+  width: 61px;
+  height: 61px;
+  margin-top: 593px !important;
+  margin-left: 1329px;
+}
+.c-personal p {
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 400;
+  background: none;
+  text-decoration: none !important;
+  color: rgba(255, 255, 255, 0.5);
+  margin-left: 0px !important;
+}
+.testing {
+  width: auto;
+  height: 27px;
+  margin-left: 770px;
+  margin-top: 95px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

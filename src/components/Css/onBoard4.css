@@ -1,0 +1,119 @@
+* {
+  background-color: #131415;
+}
+.board4 {
+  position: absolute;
+  width: 424px;
+  height: 534px;
+  left: 508px;
+  top: 245px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.p4 {
+  position: absolute;
+  width: 277px;
+  height: 48px;
+  left: 74px;
+  top: 343px;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  background: none;
+}
+
+.b4 {
+  position: absolute;
+  left: 93px;
+  right: 91px;
+  top: 96px;
+  bottom: 266px;
+  width: 240px;
+  height: 172px;
+  background: none;
+}
+.v4 {
+  top: 30.83px;
+  bottom: 182.17px;
+  left: 70.95px;
+  position: absolute;
+  width: 280.79px;
+  right: 17.95px;
+  /* transform: rotate(34.53deg); */
+  height: 271.31px;
+  background: none;
+}
+
+.bt4 {
+  background: none;
+  text-decoration: none;
+  position: absolute;
+  width: 158px;
+  height: 27px;
+  font-family: "Nunito", sans-serif;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: center;
+  font-size: 18px;
+  margin-left: 136px;
+  bottom: 67px;
+  right: 134px;
+  top: 440px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.c-4 {
+  position: absolute;
+  width: 18px;
+  top: 491px;
+  border: none;
+  background: none;
+  height: 7px;
+  border-radius: 5px;
+  left: 226px;
+  background-color: #ffffff;
+}
+.r1-4 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  left: 181px;
+  padding: 2px 2px 2px 2px;
+}
+.r2-4 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 10px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  left: 196px;
+  padding: 2px 2px 2px 2px;
+}
+.r3-4 {
+  width: 4px;
+  height: 4px;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  background: #919191;
+  position: absolute;
+  top: 491px;
+  padding: 2px 2px 2px 2px;
+  left: 211px;
+}

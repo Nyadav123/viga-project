@@ -1,0 +1,295 @@
+/* for starting arrow < look like that */
+.arw {
+  position: absolute;
+  left: 85px;
+  top: 110px;
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: bolder;
+}
+/* for profile pic */
+.prsn-pic {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 140px;
+  top: 116px;
+}
+/* for person name and other information */
+.s-head {
+  position: absolute;
+  width: 243px;
+  height: 60px;
+  left: 240px;
+  top: 120px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 60px;
+  color: #ffffff;
+}
+.s-head p {
+  position: absolute;
+  width: 89px;
+  height: 30px;
+  left: 170px;
+  top: 17px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}
+/* edit profile pic */
+.s-setting {
+  position: absolute;
+  width: 154px;
+  height: 21px;
+  left: 1211px;
+  top: 127px;
+  background: none;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+}
+/* setting heading */
+.s-General1 {
+  position: absolute;
+
+  left: 90px;
+  top: 240px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+  color: #ffffff;
+}
+/* setting-box */
+.s-box {
+  position: absolute;
+  width: 1260px;
+  height: 290px;
+  left: 90px;
+  top: 272px;
+  margin-top: 25px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+
+/* setting 1 */
+.stng-1 {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 29px;
+  margin-top: 35px !important;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  background: none;
+  color: #ffffff;
+}
+.s-sign1 {
+  background: none !important;
+  font-size: 40px;
+  margin-left: 1150px;
+  margin-top: -14px;
+}
+
+.s-line1 {
+  position: absolute;
+  width: 1166.5px;
+  height: 0px;
+  left: 47px;
+  margin-top: 100px;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+}
+
+/* setting 2 */
+.stng-2 {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 29px;
+  margin-top: 130px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  background: none;
+  color: #ffffff;
+}
+.s-sign2 {
+  background: none !important;
+  font-size: 40px;
+  margin-left: 1150px;
+  margin-top: -14px;
+}
+
+.s-line2 {
+  position: absolute;
+  width: 1166.5px;
+  height: 0px;
+  left: 18px;
+  margin-top: 33px;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+}
+.s-toggle1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 53px;
+  height: 27px;
+  left: 1140px;
+  top: 6px;
+  border: 3px solid #ffffff;
+  border-radius: 16.5px;
+}
+.s-circle1 {
+  box-sizing: border-box;
+  width: 27px;
+  height: 27px;
+  margin-left: -2px !important;
+  margin-top: -3px !important;
+  border: 3px solid #ffffff;
+  border-radius: 30px;
+}
+
+/* setting 3 */
+.stng-3 {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 30px;
+  margin-top: 220px !important;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  background: none;
+  color: #ffffff;
+}
+.s-toggle2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 53px;
+  height: 27px;
+  left: 1140px;
+  top: 6px;
+  background: #ffffff;
+  border: 3px solid #ffffff;
+
+  border-radius: 16.5px;
+}
+.s-circle2 {
+  box-sizing: border-box;
+  width: 27px;
+  height: 27px;
+  margin-left: 25px !important;
+  margin-top: -3px !important;
+  background: #232527;
+  border: 3px solid #ffffff;
+  border-radius: 30px;
+}
+.s-General2 {
+  position: absolute;
+
+  left: 90px;
+  margin-top: 630px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  background: none;
+  font-size: 25px;
+  line-height: 36px;
+  color: #ffffff;
+}
+.s-box2 {
+  position: absolute;
+  width: 1260px;
+  height: 168px;
+  left: 90px;
+  top: 700px;
+  background: #232527;
+  box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+
+.stng2-2 {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 29px;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  background: none;
+  color: #ffffff;
+}
+.s-view {
+  position: absolute;
+  width: 103px;
+  height: 30px;
+  left: 1090px;
+  top: 5px;
+  font-family: sans-serif;
+  font-style: normal;
+  background: none;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-decoration-line: underline;
+  color: #ffffff;
+}
+.s2-line2 {
+  position: absolute;
+  width: 1166.5px;
+  height: 0px;
+  left: 47px;
+  top: 84px;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+}
+.stng2-3 {
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  left: 29px;
+  margin-top: 110px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  background: none;
+  color: #ffffff;
+}
+.s2-toggle {
+  box-sizing: border-box;
+  position: absolute;
+  width: 53px;
+  height: 27px;
+  left: 1130px;
+  top: 6px;
+  border: 3px solid #ffffff;
+  border-radius: 16.5px;
+}
+.s2-circle {
+  box-sizing: border-box;
+  width: 27px;
+  height: 27px;
+  margin-left: -2px !important;
+  margin-top: -3px !important;
+  border: 3px solid #ffffff;
+  border-radius: 30px;
+}
